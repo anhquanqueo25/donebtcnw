@@ -16,9 +16,9 @@
                     <a href="#"><img src="./assets/image/logo.png"></a>
                 </div> 
                 <ul class="nav">
-                    <li><a class="a1" href="./index.html">Home</a></li>
-                    <li><a class="a2" href="./Categories.html">Categories</a></li>
-                    <li><a class="a3" href="./Food.html">Foods</a></li>
+                    <li><a class="a1" href="./index.php">Home</a></li>
+                    <li><a class="a2" href="./Categories.php">Categories</a></li>
+                    <li><a class="a3" href="./Food.php">Foods</a></li>
                     <li><a class="a4" href="https://www.facebook.com/quanqueo25">Contact</a></li>          
                 </ul>
             </div>

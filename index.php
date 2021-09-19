@@ -17,8 +17,8 @@
             </div> 
             <ul class="nav">
                 <li><a class="a1" href="">Home</a></li>
-                <li><a class="a2" href="./Categories.html">Categories</a></li>
-                <li><a class="a3" href="./Food.html">Foods</a></li>
+                <li><a class="a2" href="./Categories.php">Categories</a></li>
+                <li><a class="a3" href="./Food.php">Foods</a></li>
                 <li><a class="a4" href="https://www.facebook.com/quanqueo25">Contact</a></li>          
             </ul>
         </div>
@@ -60,7 +60,7 @@
                     <h3>Food Title</h3>
                     <h4>$2.3</h4>
                     <p>Made with Italian Sauce, Chicken, and organice vegetables</p>  
-                    <a href="./Oder.html"> Order Now</a>         
+                    <a href="./Oder.php"> Order Now</a>         
                 </div>
             </div>
             <div class="col-2">
@@ -71,7 +71,7 @@
                      <h3>Smoky Burger</h3>
                      <h4>$2.3</h4>
                      <p>Made with Italian Sauce, Chicken, and organice vegetables</p>  
-                     <a href="./Oder.html"> Order Now</a>         
+                     <a href="./Oder.php"> Order Now</a>         
                  </div>               
             </div>
             <div class="col-3">
@@ -82,7 +82,7 @@
                     <h3>Nice Burger</h3>
                     <h4>$2.3</h4>
                     <p>Made with Italian Sauce, Chicken, and organice vegetables</p>  
-                    <a href="./Oder.html"> Order Now</a>         
+                    <a href="./Oder.php"> Order Now</a>         
                 </div>
             </div>
             <div class="col-4">
@@ -93,7 +93,7 @@
                      <h3>Food Title</h3>
                      <h4>$2.3</h4>
                      <p>Made with Italian Sauce, Chicken, and organice vegetables</p>  
-                     <a href="./Oder.html"> Order Now</a>         
+                     <a href="./Oder.php"> Order Now</a>         
                  </div>               
             </div>
             <div class="col-5">
@@ -104,7 +104,7 @@
                      <h3>Food Title</h3>
                      <h4>$2.3</h4>
                      <p>Made with Italian Sauce, Chicken, and organice vegetables</p>  
-                     <a href="./Oder.html"> Order Now</a>         
+                     <a href="./Oder.php"> Order Now</a>         
                  </div>               
             </div>
             <div class="col-6">
@@ -115,7 +115,7 @@
                      <h3>Chicken Steam Momo</h3>
                      <h4>$2.3</h4>
                      <p>Made with Italian Sauce, Chicken, and organice vegetables</p>  
-                     <a href="./Oder.html"> Order Now</a>         
+                     <a href="./Oder.php"> Order Now</a>         
                  </div>               
             </div>
            <div class="Seefood"> <a href="#">See All Foods</a> </div>
